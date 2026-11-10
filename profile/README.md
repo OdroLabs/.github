@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ OdroLabs
-### Digital Engineering • Modern Cloud Systems • Enterprise Solutions
+### Digital Engineering • Modern Cloud Systems • Enterprise Software
 
 <p align="center">
   <a href="https://odrolabs.com"><img src="https://img.shields.io/badge/Website-odrolabs.com-0052cc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  At <b>OdroLabs</b>, we architect, engineer, and deploy high-performance web applications, resilient cloud backends, and bespoke digital platforms for businesses, social impact initiatives, and global non-profit foundations.
+  At <b>OdroLabs</b>, we architect, engineer, and deploy high-performance web applications, resilient cloud backends, and bespoke digital platforms for businesses, modern startups, and enterprise organizations worldwide.
 </p>
 
 </div>
@@ -33,20 +33,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,php,laravel,nodejs,postgres,mysql,sqlite,docker,cloudflare,git,github" />
 </p>
-
-<br/>
-
-## 🌐 Community & Impact Platforms
-
-OdroLabs proudly powers modern digital presence and service portals for key social impact and non-profit organizations across Sri Lanka:
-
-| Organization | Platform | Focus Area |
-| :--- | :--- | :--- |
-| **Sankranthi Foundation** | [sankranthifoundation.org](https://sankranthifoundation.org) | Transgender community healthcare, human rights & economic resilience |
-| **Heart to Heart (H2H)** | [h2h.lk](https://h2h.lk) | Community healthcare outreach, clinic booking & advocacy |
-| **CSDF Sri Lanka** | [csdfsrilanka.com](https://csdfsrilanka.com) | Community strengthening, legal aid & empowerment |
-| **TET Foundation** | [tetfoundation.lk](https://tetfoundation.lk) | Community advocacy, public health resources & social enterprise |
-| **Abhimani Women's Collective** | Community Services Portal | Female community advocacy, education & welfare programs |
 
 <br/>
 
